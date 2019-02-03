@@ -1,4 +1,4 @@
 # Create your Costume class here
-# It should inherit from 
+# It should inherit from
 
 class Costume < ActiveRecord::Base
